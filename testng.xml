@@ -5,7 +5,7 @@
 <parameter name="platform" value="windows"/>
   <test name="sampletest">
     <classes>
-      <class name="TestNG.TestNGLaunchBrowser"/>
+      <class name="TestNG.TestNGDependency"/>
  
     </classes>
   </test>
